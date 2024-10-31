@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RUN RED CAR</title>
+</head><style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #990505;
+        text-align: center;
+    }
+    h1 {
+        color: #1e0101;
+    }
+    p {
+        color: #efdfdf;
+    }
+</style><!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web</title>
+    <style>
+        body {
+            background-color: #4e5a5e; /* Cambia este valor al color que prefieras */
+            font-family: Arial, sans-serif; /* Establece la fuente del texto */
+        }
+
+        h1 {
+            color: #764e2c; /* Color del título */
+            text-align: center; /* Centra el texto */
+        }
+
+        p {
+            color: #333; /* Color del texto del párrafo */
+            font-size: 1.1em; /* Tamaño de la fuente del párrafo */
+        }
+    </style>
+</head>
+<body>
+    <h1>¡Bienvenido a nuestra pagina web</h1>
+    <p>Toda la educacion sobre carroceria que deberia de saber.</p>
+    
+    <h2>todo para un bienestar mutuo</h2>
+    <p>Nos dedicamos a formentar la educacion bajo un curso interactivo totalmente gratuito que ayuda a las personas a conocer y resolver problemas.</p>
+    
+    <button>¡COMIENZA HOY!</button>
+</body>
+</html>
+
+
+<body>
+    <h1>¡Bienvenido a mi página web!</h1>
+    <p>Este es un párrafo de ejemplo.</p>
+</body>
+</html>
